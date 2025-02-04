@@ -1,3 +1,14 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#   "python-dotenv",
+#   "click",
+#   "langchain-openai",
+#   "browser-use",
+#   "python-dateutil"
+# ]
+# ///
+
 import os
 import sys
 from typing import Optional, List, Dict
